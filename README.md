@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @doeshapedclouds
-- 👀 Long Time Cloud Engineering Practicioner, Automation & IaC SME.
-- 🌱 Always Learning
+- Hi, I’m @doeshapedclouds
+- Long Time Cloud Engineering Practicioner, Automation & IaC SME.
+- Never Stop Learning
 
 # Alexis Neil 
 She/Her  
