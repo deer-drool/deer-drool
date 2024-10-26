@@ -2,7 +2,7 @@
 - 👀 Long Time Cloud Engineering Practicioner, Automation & IaC SME.
 - 🌱 Always Learning
 
-- Ive always steered clear of hosting my code in Github, and generallyits used if im Sharing Code. Activity is Minimal due to this fact.
+- Ive always steered clear of hosting my code in Github, and for the most part is solely used for Sharing Code. Activity is Minimal due to this fact.
 - So its sparsely used, TLDR. Hasta Luego ✌️
 
 <!---
