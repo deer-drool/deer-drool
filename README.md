@@ -5,7 +5,7 @@
 # Alexis Neil 
 She/Her  
 PDX, CA, NYC  
-[alexisneil → LinkedIn]
+alexisneil → LinkedIn
 
 ## Skills
 - Leadership & People Management
