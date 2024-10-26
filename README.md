@@ -39,6 +39,7 @@ Established internal governance partnership & external Google PM collaboration
 ### Principal Cloud Engineer, AppleTV+ Studios - Post Prod & VFX
 Apple, LAX  
 2023
+*(Contract role)*
 
 Owned cloud partner relationships & projects, ensuring best practices
 Led documentation discovery, whitespace analysis, SOP drafting
